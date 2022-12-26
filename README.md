@@ -1,7 +1,8 @@
+<pre>
 A secure Instant Messaging (IM) system that satisfies the vital security features by leveraging UDP sockets in the client-server communication model.
 
 
-pip install rsa
+pip install rsa 
 pip install hashlib
 pip install pycryptodome
 
@@ -14,3 +15,4 @@ python client.py
     Enter Clients username (Format: CLIENT<username>)
     Select the client to communicate and server will respond with the selected client's details (Format: @<username>)
     Communication between the clients is initiated
+</pre>
